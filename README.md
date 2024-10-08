@@ -73,7 +73,7 @@ The complete dataset of 329 PDB files, along with their corresponding .hb2 files
 
 
 ## License
-Waterbridge is licensed under the [MIT License](https://opensource.org/license/mit), Version 2.0. You may obtain a copy of the License at [https://github.com/RamanCompChem/waterbridges/blob/main/LICENSE]. 
+Waterbridge is licensed under the [MIT License](https://opensource.org/license/mit), Version 2.0. You may obtain a copy of the License at [https://github.com/RamanCompChem/waterbridges/blob/main/LICENSE](https://github.com/RamanCompChem/waterbridges/tree/main/Dataset). 
 
 
 ## Contact
