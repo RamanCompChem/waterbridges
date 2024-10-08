@@ -65,7 +65,7 @@ Water plays an important role in the assembly, stability, and function of RNA–
 
 A dataset of RNA–protein complexes was created by extracting all 3D structures containing at least one water molecule and having resolution better than 2.5 Å available at the Protein Data Bank (PDB) before March 15, 2022. To remove redundancy, complexes with over 30% sequence identity were filtered out using the [CDHIT suite](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3516142/), resulting in a final nonredundant dataset of 329 crystal structures. These 329 crystal structures were analyzed using [HBPLUS](https://pubmed.ncbi.nlm.nih.gov/8182748/) to identify hydrogen bonds within RNA–protein complexes, resulting in the generation of ‘.hb2’ files.
 
-The complete dataset of 329 PDB files, along with their corresponding .hb2 files, is available in the [DATASET](https://github.com/RamanCompChem/waterbridges/edit/main/README.md#dataset) directory of this repository.
+The complete dataset of 329 PDB files, along with their corresponding .hb2 files, is available in the [DATASET](https://github.com/RamanCompChem/waterbridges/tree/main/Dataset) directory of this repository.
 
 
 ## Sample output
