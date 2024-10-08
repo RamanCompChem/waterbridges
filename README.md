@@ -23,34 +23,43 @@ Water plays an important role in the assembly, stability, and function of RNA–
 ![Static Badge](https://img.shields.io/badge/build-MIT-brightgreen?style=flat&logo=gitbook&logoColor=black&logoSize=auto&label=License&labelColor=%23a9a9a9&color=brightgreen&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE)
 ![Static Badge](https://img.shields.io/badge/build-v0.1.3-brightgreen?style=flat&logo=pypi&logoColor=blue&logoSize=auto&label=PyPi&labelColor=%23a9a9a9&color=brightgreen&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F)
 ![Static Badge](https://img.shields.io/badge/build-v0.1.3-brightgreen?style=flat&logo=appveyor&logoColor=blue&logoSize=auto&label=Installable%20via%20pip&color=orange&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F)
-
-[![via pip](https://img.shields.io/badge/build-v0.1.3-brightgreen?style=flat&logo=appveyor&logoColor=blue&logoSize=auto&label=Installable%20via%20pip&color=orange
-)] (https://github.com/RamanCompChem/waterbridges/blob/main/LICENSE)
-
-
 <!--- BADGES: END --->
 
 ## Features
 
-1. **Water Bridge Identification**: Identifies water bridges in RNA–protein complexes based on the output of HBPLUS.
-2. **Topological Classification**: Analyzes and classifies the topology of identified water bridges, such as A1-w-N1 and A1-w-N2.
-3. **Nomenclature Generation**: Provides specific nomenclature for the identified topologies, like A1-w-N1.
+- **Water Bridge Identification:** Identifies water bridges in RNA–protein complexes based on the output of HBPLUS.
+- **Topological Classification:** Analyzes and classifies the topology of identified water bridges, such as A1:w:N1, A1:w:N2, and so on.
+- **Naming Water Bridges:** Writes nomenclature for the identified topologies.
+- **Automatic and Fast:** Automatically processes all .hbplus files in the current directory.
+- **Installation:** Simple to install by pip .
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Input Files](#input-files)
+- [Output Files](#output-files)
+- [Benchmark](#benchmark)
+- [Example Files](#example-files)
+- [Tests](#tests)
+- [Citation](#citation)
+- [License](#license)
+- [Contact](#contact)
 
 ## Installation
 
-1. Clone the repository to your local machine:
-
+1. On windows machine:
+      Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/waterbridge_tool.git
+    git clone https://github.com/RamanCompChem/waterbridges
     ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
     ```bash
     cd waterbridge_tool
     ```
 
-3. Install the package (if packaging for PyPI):
+4. Install the package (if packaging for PyPI):
 
     ```bash
     pip install .
