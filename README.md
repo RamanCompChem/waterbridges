@@ -22,7 +22,7 @@ Water plays an important role in the assembly, stability, and function of RNA–
 [![GitHub - License](https://img.shields.io/github/license/di/pip-api?logo=github&style=flat&color=green)][#github-license]
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pip-api?logo=pypi&style=flat&color=blue)][#pypi-package]
 [![PyPI - Package Version](https://img.shields.io/pypi/v/pip-api?logo=pypi&style=flat&color=orange)][#pypi-package]
-[![Static Badge](https://img.shields.io/badge/Installable_via_pip-0.0.3-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=atuo&label=Installable%20via%20pip&color=orange&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F)]
+![Static Badge](https://img.shields.io/badge/Installable_via_pip-0.0.3-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=atuo&label=Installable%20via%20pip&color=orange&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F)
 
 [#github-license]: [(https://github.com/RamanCompChem/waterbridges/blob/main/LICENSE)]
 [#pypi-package]: https://pypi.org/project/pip-api/
