@@ -62,4 +62,16 @@ Water plays an important role in the assembly, stability, and function of RNA–
    - Run three python codes in sequence:
       - 1_Identification of water bridges.py (identify water bridges)
       - 2_Topological classification of water bridges.py (classify water bridges)
-      - 3_Nomenclature of A1-w-N1 waterbridges.py (assign a name to each A1:w:N1 water bridges) 
+      - 3_Nomenclature of A1-w-N1 waterbridges.py (assign a name to each A1:w:N1 water bridges)
+
+
+
+## License
+Waterbridge is licensed under the [MIT License](https://opensource.org/license/mit), Version 2.0. You may obtain a copy of the License at [https://github.com/RamanCompChem/waterbridges/blob/main/LICENSE]. 
+
+
+## Contact
+
+For queries or support, please feel free to contact us:
+
+- **Dr. Purshotam Sharma**: [psharmapuchd@gmail.com](mailto:psharmapuchd@gmail.com)
