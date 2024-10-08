@@ -19,7 +19,8 @@ This code is written in python3. To run this code, go through the following step
 Water plays an important role in the assembly, stability, and function of RNA–protein complexes. Water forms directional interactions, and its dynamic clusters contribute to molecular recognition. To gain a deeper understanding, we developed a graph theory-based classification scheme for water-mediated amino acid-ribonucleotide motifs, categorizing them into triplets, quartets, and quintet bridging topologies, with further sub-topologies. This categorization not only enhances insights into biomolecular dynamics but also informs the rational design of RNA–protein complexes, providing a framework for potential applications in bioinformatics and therapeutics.
 
 <!--- BADGES: START --->
-[![GitHub - License](https://img.shields.io/github/license/di/pip-api?logo=github&style=flat&color=green)][#github-license]
+![Static Badge](https://img.shields.io/badge/build-MIT-brightgreen?style=flat&logo=gitbook&logoColor=black&logoSize=auto&label=License&labelColor=%23a9a9a9&color=brightgreen&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE)
+
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pip-api?logo=pypi&style=flat&color=blue)][#pypi-package]
 [![PyPI - Package Version](https://img.shields.io/pypi/v/pip-api?logo=pypi&style=flat&color=orange)][#pypi-package]
 ![Static Badge](https://img.shields.io/badge/Installable_via_pip-0.0.3-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=atuo&label=Installable%20via%20pip&color=orange&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F)
