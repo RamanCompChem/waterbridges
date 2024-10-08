@@ -1,4 +1,4 @@
-<img src="logo.tif" alt="My Logo" width="200" />
+<img src="logo.png" alt="My Logo" width="200" />
 
 ***********A python code for detecting water bridges in RNA–protein complexes***********
 This code is written in python3. To run this code, go through the following steps:
