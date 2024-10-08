@@ -57,6 +57,7 @@ Water plays an important role in the assembly, stability, and function of RNA–
 
 ## How to run
 1.  On Linux machine:
+   
       Installation through pip will automatically adds 'waterbridge' to your environment. You can simply use the `waterbridge` command in your terminal alnog with arguments in workring directly. For this place HBPLUS outputs and respective PDB files to working directory.
      ### Command-Line Usage
      ```bash
@@ -67,3 +68,11 @@ Water plays an important role in the assembly, stability, and function of RNA–
       - `-3`: Provide nomenclature for the A1:w:N1 topology only.
 
 
+2.  On Windows machine:
+   
+   - Place all three codes (‘1_Identification of water bridges.py’, ‘2_Topological classification of water bridges.py’, and ‘3_Nomenclature of A1-w-N1 waterbridges.py’) into a folder along with ‘.hb2’ files obtained from HBPLUS and respective PDB files.
+
+   - Run three python codes in sequence:
+      - 1_Identification of water bridges.py (identify water bridges)
+      - 2_Topological classification of water bridges.py (classify water bridges)
+      - 3_Nomenclature of A1-w-N1 waterbridges.py (assign a name to each A1:w:N1 water bridges) 
