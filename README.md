@@ -46,19 +46,22 @@ Water plays an important role in the assembly, stability, and function of RNA–
 - [Contact](#contact)
 
 ## Installation
-
-1. On Windows machine:
-      Save the repository to your local machine and python scripts can be run they are.
-   
-2. On Linux machine
+  
+1.  On Linux machine:
       Directly via pip
       ```bash
       pip install waterbridge
       ```
+2.  On Windows machine:
+      Save the repository to your local machine and python scripts can be run as they are.
 
 ## How to run
-
-After installation, you can use the `waterbridge` command in your terminal. Here’s how to run the different parts of the tool:
+1.  On Linux machine:
+      Installation through pip will automatically adds 'waterbridge' to your environment. You can simply use the `waterbridge` command in your terminal alnog with arguments in workring directly. For this place HBPLUS output to working directory.
+      Here’s how to run the different arguments: waterbridge -1 | -2 | -3
+      -1: Identify water bridges in RNA–protein complexes. For this, ensure that the output files from HBPLUS are placed in the current directory.
+      -2: Analyze the output of option 1 and identify the topology of the water bridges, such as A1-w-N1, A1-w-N2, and others.
+      -3: Provide nomenclature for the A1-w-N1 topology only.
 
 ### Command-Line Usage
 
