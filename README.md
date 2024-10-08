@@ -22,7 +22,7 @@ Water plays an important role in the assembly, stability, and function of RNA–
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![Static Badge](https://img.shields.io/badge/build-MIT-brightgreen?style=flat&logo=gitbook&logoColor=black&logoSize=auto&label=License&labelColor=%23a9a9a9&color=brightgreen&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE)
 ![Static Badge](https://img.shields.io/badge/build-v0.1.3-brightgreen?style=flat&logo=pypi&logoColor=blue&logoSize=auto&label=PyPi&labelColor=%23a9a9a9&color=brightgreen&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F)
-![Static Badge](https://img.shields.io/badge/build-v0.1.3-brightgreen?style=flat&logo=appveyor&logoColor=blue&logoSize=auto&label=Installable%20via%20pip&color=orange&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F)
+![Static Badge](https://img.shields.io/badge/build-v0.1.3-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&label=Installable%20via%20pip&color=orange&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE)
 <!--- BADGES: END --->
 
 ## Features
@@ -35,7 +35,7 @@ Water plays an important role in the assembly, stability, and function of RNA–
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
+- [How to run](#how-to-run)
 - [Input Files](#input-files)
 - [Output Files](#output-files)
 - [Benchmark](#benchmark)
@@ -47,25 +47,16 @@ Water plays an important role in the assembly, stability, and function of RNA–
 
 ## Installation
 
-1. On windows machine:
-      Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/RamanCompChem/waterbridges
-    ```
+1. On Windows machine:
+      Save the repository to your local machine and python scripts can be run they are.
+   
+2. On Linux machine
+      Directly via pip
+      ```bash
+      pip install waterbridge
+      ```
 
-3. Navigate to the project directory:
-
-    ```bash
-    cd waterbridge_tool
-    ```
-
-4. Install the package (if packaging for PyPI):
-
-    ```bash
-    pip install .
-    ```
-
-## Usage
+## How to run
 
 After installation, you can use the `waterbridge` command in your terminal. Here’s how to run the different parts of the tool:
 
