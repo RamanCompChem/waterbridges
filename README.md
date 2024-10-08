@@ -11,3 +11,42 @@ This code is written in python3. To run this code, go through the following step
   
 4. Now, run ‘3_Nomenclature of A1-w-N1 waterbridges.py’, to assign a name to each base-mediated water bridge present in ‘waterbridges_Base.txt’. This will generate a file ‘classified_A1-w-B1_waterbridges’.
 
+
+# Waterbridge Tool
+
+A Python tool for identifying and analyzing water bridges in RNA–protein complexes.
+
+## Features
+
+1. **Water Bridge Identification**: Identifies water bridges in RNA–protein complexes based on the output of HBPLUS.
+2. **Topological Classification**: Analyzes and classifies the topology of identified water bridges, such as A1-w-N1 and A1-w-N2.
+3. **Nomenclature Generation**: Provides specific nomenclature for the identified topologies, like A1-w-N1.
+
+## Installation
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/yourusername/waterbridge_tool.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd waterbridge_tool
+    ```
+
+3. Install the package (if packaging for PyPI):
+
+    ```bash
+    pip install .
+    ```
+
+## Usage
+
+After installation, you can use the `waterbridge` command in your terminal. Here’s how to run the different parts of the tool:
+
+### Command-Line Usage
+
+```bash
+waterbridge -1
