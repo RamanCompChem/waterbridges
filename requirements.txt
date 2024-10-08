@@ -1,0 +1,6 @@
+HBPLUS output files (.hb2)
+PDB files (.ent)
+python3.6
+	numpy
+	itertools
+	math
