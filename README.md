@@ -1,3 +1,5 @@
+<img src="logo.tiff" alt="My Logo" width="200" />
+
 ***********A python code for detecting water bridges in RNA–protein complexes***********
 This code is written in python3. To run this code, go through the following steps:
 1.	Place all three codes (‘1_Identification of water bridges.py’, ‘2_Topological classification of water bridges.py’, and ‘3_Nomenclature of A1-w-N1 waterbridges.py’) into a folder along with ‘.hb2’ files obtained from HBPLUS and respective PDB files.
