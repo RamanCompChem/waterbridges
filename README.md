@@ -1,6 +1,6 @@
 <img src="logo.png" alt="My Logo" width="800" />
 
-***********A python code for detecting water bridges in RNA–protein complexes***********
+
 This code is written in python3. To run this code, go through the following steps:
 1.	Place all three codes (‘1_Identification of water bridges.py’, ‘2_Topological classification of water bridges.py’, and ‘3_Nomenclature of A1-w-N1 waterbridges.py’) into a folder along with ‘.hb2’ files obtained from HBPLUS and respective PDB files.
    
@@ -14,9 +14,10 @@ This code is written in python3. To run this code, go through the following step
 4. Now, run ‘3_Nomenclature of A1-w-N1 waterbridges.py’, to assign a name to each base-mediated water bridge present in ‘waterbridges_Base.txt’. This will generate a file ‘classified_A1-w-B1_waterbridges’.
 
 
-# Waterbridge Tool
+# Waterbridge: A python code for detection of water bridges in RNA–protein complexes
 
 A Python tool for identifying and analyzing water bridges in RNA–protein complexes.
+Water plays an important role in the assembly, stability, and function of RNA–protein complexes. Water forms directional interactions, and its dynamic clusters contribute to molecular recognition. To gain a deeper understanding, we developed a graph theory-based classification scheme for water-mediated amino acid-ribonucleotide motifs, categorizing them into triplets, quartets, and quintet bridging topologies, with further sub-topologies. This categorization not only enhances insights into biomolecular dynamics but also informs the rational design of RNA–protein complexes, providing a framework for potential applications in bioinformatics and therapeutics.
 
 ## Features
 
