@@ -45,7 +45,7 @@ Water plays an important role in the assembly, stability, and function of RNA–
 ## How to run
 1.  On Linux machine:
    
-      Installation through pip will automatically adds 'waterbridge' to your environment. You can simply use the `waterbridge` command in your terminal alnog with arguments in workring directly. For this place HBPLUS outputs and respective PDB files to working directory.
+      Installation through pip will automatically adds 'waterbridge' to your environment. You can simply use the `waterbridge` command in your terminal alnog with arguments in workring directory. For this place HBPLUS outputs and respective PDB files to working directory.
      ### Command-Line Usage
      ```bash
      waterbridge -1 | -2 | -3
