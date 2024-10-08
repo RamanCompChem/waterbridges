@@ -23,7 +23,7 @@ Water plays an important role in the assembly, stability, and function of RNA–
 ## Table of Contents
 - [Installation](#installation)
 - [How to run](#how-to-run)
-- [Dataset](#input-files)
+- [Dataset](#dataset)
 - [Output Files](https://github.com/RamanCompChem/waterbridges/tree/main/Result)
 - [License](#license)
 - [Contact](#contact)
