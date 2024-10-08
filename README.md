@@ -20,14 +20,10 @@ Water plays an important role in the assembly, stability, and function of RNA–
 
 <!--- BADGES: START --->
 ![Static Badge](https://img.shields.io/badge/build-MIT-brightgreen?style=flat&logo=gitbook&logoColor=black&logoSize=auto&label=License&labelColor=%23a9a9a9&color=brightgreen&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE)
-
-
-
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pip-api?logo=pypi&style=flat&color=blue)][#pypi-package]
 [![PyPI - Package Version](https://img.shields.io/pypi/v/pip-api?logo=pypi&style=flat&color=orange)][#pypi-package]
 ![Static Badge](https://img.shields.io/badge/Installable_via_pip-0.0.3-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=atuo&label=Installable%20via%20pip&color=orange&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F)
 
-[#github-license]: [(https://github.com/RamanCompChem/waterbridges/blob/main/LICENSE)]
 [#pypi-package]: https://pypi.org/project/pip-api/
 [#conda-forge-package]: https://anaconda.org/conda-forge/pip-api
 [#conda-forge-feedstock]: https://github.com/conda-forge/pip-api-feedstock
