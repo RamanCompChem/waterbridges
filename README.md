@@ -8,8 +8,8 @@ Water plays an important role in the assembly, stability, and function of RNA–
 <!--- BADGES: START --->
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![Static Badge](https://img.shields.io/badge/build-MIT-brightgreen?style=flat&logo=gitbook&logoColor=black&logoSize=auto&label=License&labelColor=%23a9a9a9&color=brightgreen&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE)
-![Static Badge](https://img.shields.io/badge/PyPI-v0.2.0-brightgreen?logo=pypi&logoColor=darkblue&labelColor=lightgrey&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F)
-![Static Badge](https://img.shields.io/badge/Installable%20via%20pip-v0.2.0-orange?logo=pypi&logoColor=blue&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F)
+![Static Badge](https://img.shields.io/badge/build-v0.1.3-brightgreen?style=flat&logo=pypi&logoColor=blue&logoSize=auto&label=PyPi&labelColor=%23a9a9a9&color=brightgreen&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F&link=https%3A%2F%2Fpypi.org%2Fproject%2Fwaterbridge%2F)
+![Static Badge](https://img.shields.io/badge/build-v0.1.3-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&label=Installable%20via%20pip&color=orange&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE&link=https%3A%2F%2Fgithub.com%2FRamanCompChem%2Fwaterbridges%2Fblob%2Fmain%2FLICENSE)
 <!--- BADGES: END --->
 
 ## Features
@@ -48,17 +48,17 @@ Water plays an important role in the assembly, stability, and function of RNA–
      ```
       - `-1`: Identify water bridges in RNA–protein complexes. For this, ensure that the output files from HBPLUS are placed in the current directory.
       - `-2`: Analyze the output of option 1 and identify the topology of the water bridges, such as A1:w:N1, A1:w:N2, and others.
-      - `-3`: Provide nomenclature for the A1:w:N1 topology only.
+      - `-3`: Provide nomenclature for the identifed topology only.
 
 
 2.  On Windows machine:
    
-   - Place all three codes (‘1_Identification of water bridges.py’, ‘2_Topological classification of water bridges.py’, and ‘3_Nomenclature of A1-w-N1 waterbridges.py’) into a folder along with ‘.hb2’ files obtained from HBPLUS and respective PDB files.
+   - Place all three codes (‘1_Identification of water bridges.py’, ‘2_Topological classification of water bridges.py’, and ‘3_Nomenclature of waterbridges.py’) into a folder along with ‘.hb2’ files obtained from HBPLUS and respective PDB files.
 
    - Run three python codes in sequence:
       - 1_Identification of water bridges.py (identify water bridges)
       - 2_Topological classification of water bridges.py (classify water bridges)
-      - 3_Nomenclature of A1-w-N1 waterbridges.py (assign a name to each A1:w:N1 water bridges)
+      - 3_Nomenclature of waterbridges.py (assign a name to each identified water bridge)
 
 
 ## Dataset
